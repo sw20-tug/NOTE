@@ -6,7 +6,7 @@
 NOTE
 
 #### Technology
-Mobile app for Android or Java application for desktop (browser-based frontend, Swing, QT or any other GUI Framework)
+Native Android app or Java application with browser-based frontend, Swing, QT or any other GUI framework
 
 #### Stories
 
